@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/saiaswin/work/BrainWave/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/saiaswin/work/BrainWave/app/build/intermediates/pre-dexed/debug/classes-a2a19c15acb83d7089d118cc4dcf8ac979a8964f.jar" />
+    </item>
+    <item
+        jar="/Users/saiaswin/Documents/Android SDK/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/saiaswin/work/BrainWave/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-8273b2fbdd1fc42ea7ee762cbb0238b41ff0fc70.jar" />
+    </item>
+    <item
+        jar="/Users/saiaswin/work/BrainWave/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/saiaswin/work/BrainWave/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-f6d1c8abf120e153379064da6aef46a89cca90e0.jar" />
+    </item>
+    <item
+        jar="/Users/saiaswin/work/BrainWave/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/saiaswin/work/BrainWave/app/build/intermediates/pre-dexed/debug/classes-a254064bcc5ea3273f715557e95128d53d884734.jar" />
+    </item>
+    <item
+        jar="/Users/saiaswin/work/BrainWave/app/build/intermediates/exploded-aar/BrainWave/codescanner/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cabbd9b2f0b88385ec8c14a85b02d6ec9f69883b">
+        <dex dex="/Users/saiaswin/work/BrainWave/app/build/intermediates/pre-dexed/debug/classes-1e0bc37fbca81665d93ddefbaabc61f79b8371c5.jar" />
+    </item>
+
+</items>
